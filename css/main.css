@@ -1,0 +1,12 @@
+@CHARSET "ISO-8859-1";
+
+body { 
+background-color:   #151414  ;
+}
+h2 {     
+ color: grey;
+}
+.carousel-caption {
+    color: white;
+   text-align: left;
+}
